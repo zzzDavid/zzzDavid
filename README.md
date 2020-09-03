@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/zzzDavid">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&show_icons=true&count_private=true&include_all_commits=true" alt="Niansong Zhang's GitHub Stats" />
+</a>
