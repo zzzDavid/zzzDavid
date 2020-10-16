@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/zzzDavid">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&show_icons=true&count_private=true&include_all_commits=true" alt="Niansong Zhang's GitHub Stats" />
-</a>
+## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+<img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&count_private=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzDavid&layout=compact" width="375"/>
