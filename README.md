@@ -19,7 +19,7 @@ I worked on an automatic hard block placer [RapidLayout](https://arxiv.org/abs/2
 
 - **Deep Learning Tool Chain**
 
-At NICS lab and Novauto Technology, I work on depolying neural networks on FPGA. Specifically, this process includes network pruning, quantization and compilation. I am maintaining a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
+At NICS lab and Novauto Technology, I work on deploying neural networks on FPGAs. Specifically, this process includes network pruning, quantization and compilation. I am maintaining a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
 
 - **Domain-Specific Language**
 
