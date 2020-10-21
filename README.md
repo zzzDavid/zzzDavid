@@ -1,19 +1,37 @@
-### Hi there 👋
+## Hi there, I'm Niansong Zhang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-<!--
-**zzzDavid/zzzDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289150/github/video-game_nf4jyq.svg" width="80px"/> I'm an ECE graduate student at Cornell University starting from 2021 (MS/PhD). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on a few interesting projects at the following labs:
 
-## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+- [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn/) at Tsinghua University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603287964/github/1200px-Tsinghua_University_Logo.svg_zzzlho.png" width="15" height="15"/> 
+- [CSL](https://www.csl.cornell.edu/) at Cornell University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603287620/github/cornell_jvchu2.png" width="15" height="15"/>
+- [WatCAG](https://nachiket.github.io/research.html) at the University of Waterloo <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603288150/github/Screen_Shot_2020-10-21_at_21.49.00_nkhilm.png" height="15"/>
+
+Also, I'm working as an intern at [NOVAUTO](https://www.novauto.com.cn/) Technology.
+
+## <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289024/github/rainbow_smywp9.svg" height="40"/> What I'm working on
+
+- **FPGA Compiler**
+
+I worked on an automatic hard block placer [RapidLayout](https://arxiv.org/abs/2002.06998) with Prof. Nachiket Kapre at the University of Waterloo. We want to make placement for large-scale accelerators easier and faster. This project is still active as we work to bring RapidLayout more general.
+
+- **Deep Learning Tool Chain**
+
+At NICS lab and Novauto Technology, I work on depolying neural networks on FPGA. Specifically, this process includes network pruning, quantization and compilation. I am maintaining a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
+
+- **Domain-Specific Language**
+
+I am also learning [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generation heterogenous DSL. 
+
+Generally, I want to make hardware designing and implementation faster and easier.
+ 
+### My Blog
+I maintain a personal blog website: [zzzdavid.tech](https://www.zzzdavid.tech). Just trying to put down things I'm doing and stuff that I read or learned.
+
+## <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603290545/github/camera_fg697a.svg" width=30/> Status
 <img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&count_private=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzDavid&layout=compact" width="375"/>
+
+
+<!-- Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
