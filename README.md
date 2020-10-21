@@ -1,4 +1,4 @@
-## Hi there, I'm Niansong Zhang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+## Hi there, I'm Niansong Zhang <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603305558/github/wave_smz3ly.gif" width="30px"/>
 
 
 <img align="right" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289150/github/video-game_nf4jyq.svg" width="80px"/> I'm an ECE graduate student at Cornell University starting from 2021 (MS/PhD). 
