@@ -27,7 +27,7 @@ I am also learning [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generat
 
 Generally, I want to make hardware designing and implementation faster and easier.
  
-### My Blog
+### <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603300538/github/computer_pdu3z6.svg" width="30"/> My Blog
 I maintain a personal blog website: [zzzdavid.tech](https://www.zzzdavid.tech). Just trying to put down things I'm doing and stuff that I read or learned.
 
 ## <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603290545/github/camera_fg697a.svg" width=30/> Status
