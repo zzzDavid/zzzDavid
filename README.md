@@ -6,7 +6,7 @@
 Currently, I'm working on a few interesting projects at the following labs:
 
 - [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn/) at Tsinghua University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603287964/github/1200px-Tsinghua_University_Logo.svg_zzzlho.png" width="15" height="15"/> 
-- [CSL](https://www.csl.cornell.edu/) at Cornell University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/cornell_ihqpcw.png" width="15" height="15"/>
+- [CSL](https://www.csl.cornell.edu/) at Cornell University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/cornell_ihqpcw.png"  height="15"/>
 - [WatCAG](https://nachiket.github.io/research.html) at the University of Waterloo <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/waterloo_g8u1qm.png" height="15"/>
 
 Also, I'm working as an intern at [NOVAUTO](https://www.novauto.com.cn/) Technology.
