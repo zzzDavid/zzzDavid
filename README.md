@@ -15,11 +15,11 @@ Also, I'm working as an intern at [NOVAUTO](https://www.novauto.com.cn/) Technol
 
 - **FPGA Compiler**
 
-I worked on an automatic hard block placer [RapidLayout](https://arxiv.org/abs/2002.06998) with Prof. Nachiket Kapre at the University of Waterloo. We want to make placement for large-scale accelerators easier and faster. This project is still active as we work to bring RapidLayout more general.
+I worked on an automatic hard block placer [RapidLayout](https://arxiv.org/abs/2002.06998) with Prof. Nachiket Kapre at the University of Waterloo. We want to make placement for large-scale accelerators faster and easier. This project is still active as we work to bring RapidLayout more general.
 
 - **Deep Learning Tool Chain**
 
-At NICS lab and Novauto Technology, I work on deploying neural networks on FPGAs. Specifically, this process includes network pruning, quantization and compilation. I am maintaining a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
+At NICS lab and Novauto Technology, I work on deploying neural networks on FPGAs. Specifically, this process includes network pruning, quantization and compilation. I maintain a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
 
 - **Domain-Specific Language**
 
