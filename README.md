@@ -31,7 +31,7 @@ Generally, I want to make hardware designing and implementation faster and easie
 I maintain a personal blog website: [zzzdavid.tech](https://www.zzzdavid.tech). Just trying to put down things I'm doing and stuff that I read or learned.
 
 ## <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603290545/github/camera_fg697a.svg" width=30/> Status
-<img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&count_private=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzDavid&layout=compact" width="375"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zzzDavid&count_private=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzDavid&layout=compact&theme=radical" width="375"/>
 
 
 <!-- Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
