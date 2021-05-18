@@ -9,7 +9,8 @@ Currently, I'm working on a few interesting projects at the following labs:
 - [CSL](https://www.csl.cornell.edu/) at Cornell University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/cornell_ihqpcw.png"  height="15"/>
 - [WatCAG](https://nachiket.github.io/research.html) at the University of Waterloo <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/waterloo_g8u1qm.png" height="15"/>
 
-I worked as an intern at [NOVAUTO](https://www.novauto.com.cn/) Technology.
+I was an intern at [NOVAUTO](https://www.novauto.com.cn/) Technology.
+
 Currently, I'm working at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) on Domain-Specific Language for Agile Design as a tech employee.
 
 ## <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289024/github/rainbow_smywp9.svg" height="40"/> What I'm working on
