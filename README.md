@@ -11,7 +11,7 @@ Currently, I'm working on a few interesting projects at the following labs:
 
 I was an intern at [NOVAUTO](https://www.novauto.com.cn/) Technology.
 
-Currently, I'm working at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) on Domain-Specific Language for Agile Design as a tech employee.
+I worked at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) on Domain-Specific Language for Agile Design from Feburary to August 2021.
 
 ## <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289024/github/rainbow_smywp9.svg" height="40"/> What I'm working on
 
