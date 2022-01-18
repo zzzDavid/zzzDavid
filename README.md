@@ -27,7 +27,7 @@ At NICS lab and Novauto Technology, I worked on deploying neural networks on FPG
 
 - **Domain-Specific Languages**
 
-I am in the developer team of [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generation heterogenous DSL. HeteroCL decouples key hardware customizations from the algorithm specification, to boost hardware developing efficiency and design portability. I developed a SystemC backend to generate ASIC design at Intel. Currently, there are many exciting projects going on around HeteroCL, including efforts for hardware verification, sparse architectures, and MLIR integration. 
+I am in the developer team of [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generation heterogenous DSL. HeteroCL decouples key hardware customizations from the algorithm specification, which boosts hardware developing efficiency and design portability. I developed a SystemC backend to generate ASIC design at Intel. Currently, there are many exciting projects going on around HeteroCL, including efforts for hardware verification, sparse architectures, and MLIR integration. 
 
  
 ### <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603300538/github/computer_pdu3z6.svg" width="30"/> My Blog
