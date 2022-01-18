@@ -15,19 +15,20 @@ I worked at [Intel Labs](https://www.intel.com/content/www/us/en/research/overvi
 
 ## <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289024/github/rainbow_smywp9.svg" height="40"/> What I'm working on
 
+Generally, I want to make hardware designing and implementation faster and easier.
+
 - **FPGA Compiler**
 
 I worked on an automatic hard block placer [RapidLayout](https://arxiv.org/abs/2002.06998) with Prof. Nachiket Kapre at the University of Waterloo. We want to make placement for large-scale accelerators faster and easier. This project is still active as we work to bring RapidLayout more general.
 
 - **Deep Learning Tool Chain**
 
-At NICS lab and Novauto Technology, I work on deploying neural networks on FPGAs. Specifically, this process includes network pruning, quantization and compilation. I maintain a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
+At NICS lab and Novauto Technology, I worked on deploying neural networks on FPGAs. Specifically, this process includes network pruning, quantization and compilation. I maintain a set of tools to deploy TensorFlow, PyTorch and Caffe neural network models on Xilinx FPGA. 
 
-- **Domain-Specific Language**
+- **Domain-Specific Languages**
 
-I am one of the developer of [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generation heterogenous DSL. HeteroCL decouples key hardware customizations from the algorithm specification, to boost hardware developing efficiency and design portability. I developed a SystemC backend to generate ASIC design at Intel. Currently, there are many exciting projects going on around HeteroCL, including efforts for hardware verification, sparse architectures, and MLIR integration. 
+I am in the developer team of [HeteroCL](https://heterocl.csl.cornell.edu/), a next-generation heterogenous DSL. HeteroCL decouples key hardware customizations from the algorithm specification, to boost hardware developing efficiency and design portability. I developed a SystemC backend to generate ASIC design at Intel. Currently, there are many exciting projects going on around HeteroCL, including efforts for hardware verification, sparse architectures, and MLIR integration. 
 
-Generally, I want to make hardware designing and implementation faster and easier.
  
 ### <img align="center" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603300538/github/computer_pdu3z6.svg" width="30"/> My Blog
 I maintain a personal blog website: [zzzdavid.tech](https://www.zzzdavid.tech). Just trying to put down things I'm doing and stuff that I read or learned.
