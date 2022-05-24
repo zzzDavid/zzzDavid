@@ -1,9 +1,9 @@
 ## Hi there, I'm Niansong Zhang <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603305558/github/wave_smz3ly.gif" width="30px"/>
 
 
-<img align="right" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289150/github/video-game_nf4jyq.svg" width="80px"/> I'm an ECE graduate student at Cornell University starting from 2021 (MS/PhD). 
+<img align="right" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289150/github/video-game_nf4jyq.svg" width="80px"/> I'm an ECE MS/PhD student at Computer System Lab, Cornell University.
 
-Currently, I'm working on a few interesting projects at the following labs:
+Currently, I'm working on a few interesting projects with the following labs:
 
 - [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn/) at Tsinghua University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603287964/github/1200px-Tsinghua_University_Logo.svg_zzzlho.png" width="15" height="15"/> 
 - [CSL](https://www.csl.cornell.edu/) at Cornell University <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1607669548/github/cornell_ihqpcw.png"  height="15"/>
