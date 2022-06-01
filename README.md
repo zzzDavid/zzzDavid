@@ -1,4 +1,4 @@
-## Hi there, I'm Niansong Zhang <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603305558/github/wave_smz3ly.gif" width="30px"/>
+## Hi there, I'm Niansong Zhang 
 
 
 <img align="right" src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289150/github/video-game_nf4jyq.svg" width="80px"/> I'm an ECE MS/PhD student at Computer System Lab, Cornell University.
