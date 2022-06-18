@@ -15,7 +15,7 @@ I worked at [Intel Labs](https://www.intel.com/content/www/us/en/research/overvi
 
 ## <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603289024/github/rainbow_smywp9.svg" height="40"/> What I'm working on
 
-Generally, I want to make hardware designing and implementation faster and easier.
+I want to make hardware designing and implementation faster and easier.
 
 - **FPGA Compiler**
 
